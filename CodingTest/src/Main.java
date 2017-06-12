@@ -1,7 +1,7 @@
 /*
  * @author :rabindra sah
  * created :16/12/2015
- * contact :rabindrabikramsah@gmail.com
+ * contact :rabindra235@gmail.com
  */
 
 public class Main {
