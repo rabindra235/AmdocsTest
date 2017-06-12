@@ -12,3 +12,5 @@
  * left at "13:00".The total parking cost will be 21 as (entry cost + first hour cost + cost after first hour which include the partial  hour cost)
  * which is 2 + 3 + 4*4 =21.
  *
+ *
+ */
