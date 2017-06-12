@@ -4,6 +4,7 @@ import java.util.Scanner;
  * @author :rabindra sah
  * created :16/12/2015
  * contact :rabindra235@gmail.com
+ * 
  */
 
 public class Simulate 
